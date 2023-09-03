@@ -11,6 +11,9 @@ Features Extraction:   Local Binary Pattern
 To extract different features of images i used LBP method
 
 MOdels used for classification
+
 1- SVM
+
 2- KNN
+
 3- Random Forest etc
